@@ -69,4 +69,3 @@ function App() {
 
 export default App;
 
-now you can see window current width and height printed and when u resize the page it changes to the current size which could be useful to apply css on the page style 
